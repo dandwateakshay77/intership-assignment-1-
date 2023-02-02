@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(158, 216, 223);
+  }
+  h1 {
+    text-shadow: 2px 1px rgb(0, 4, 4);
+    color: rgb(7, 9, 61);
+  }
+  p {
+    color: red; 
+    border: 0.5px solid black;
+    background-color: lightblue;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+  }
+  img {
+        
+      padding: 5px;
+      width: 600px;
+      height: 400px;
+    
+  }
+  .container {
+    position: relative;
+    font-family: Arial;
+  }
+      .text-block {
+        position:absolute;
+        top: 20px;
+        right: 20px;
+        background-color: black;
+        color: white;
+        padding-left: 20px;
+        padding-right: 20px;
+      }   
